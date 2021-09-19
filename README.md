@@ -5,6 +5,6 @@ The purpose of this new analysis is to create summary of the ride-sharing data b
 
 ## Results
 
-![PyBer_Summary_df](/Resources/PyCitySchools_District_Summary.PNG)
+![PyBer_Summary_df](/analysis/PyBer_Summary_df.PNG)
 
 ## Summary
