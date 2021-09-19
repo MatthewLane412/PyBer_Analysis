@@ -7,4 +7,6 @@ The purpose of this new analysis is to create summary of the ride-sharing data b
 
 ![PyBer_Summary_df](/analysis/PyBer_Summary_df.PNG)
 
+![PyBer_Summary_df_line_Graph](/analysis/PyBer_fare_summary.png)
+
 ## Summary
