@@ -12,8 +12,8 @@ Rural cities have the fewest number of total rides and drivers. On the other han
 ![PyBer_Summary_df_line_Graph](/analysis/PyBer_fare_summary.png)
 
 ## Summary
-Based on the results. I have 3 business recommendations. 
+Based on the results. I have 3 business recommendations to address possible disparities among city types.
 
-- klasdjf
+- First - rural cities price per fare should decrease slightly, giving more opportunties to the rural communities to use PyBer ride-sharing.
 - lkjsadf
 - lkasdj
