@@ -5,8 +5,6 @@ The purpose of this new analysis is to create summary of the ride-sharing data b
 
 ## Results
 
-### PyBer Summary by Type
-
 Rural cities have the fewest number of total rides and drivers. On the other hand, rural cities have the highest average fare per ride. Rural drivers made the most money followed by suburban drivers. Urban cities bring in the most total fares followed by suburban and rural cities. Furthermore, the line graph below emphasizes urban cities bringing in the most total fares and rural cities bringing in the least total fares.
 
 ![PyBer_Summary_df](/analysis/PyBer_Summary_df.PNG)
